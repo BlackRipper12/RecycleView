@@ -45,7 +45,7 @@ object HeroesData {
         arrayOf(
             "Soepomo",
             "Prof. Mr. Dr. Soepomo (Ejaan Soewandi: Supomo; lahir di Sukoharjo, Jawa Tengah, 22 Januari 1903 – meninggal di Jakarta, 12 September 1958 pada umur 55 tahun) adalah seorang pahlawan nasional Indonesia. Soepomo dikenal sebagai arsitek Undang-undang Dasar 1945, bersama dengan Muhammad Yamin dan Soekarno.",
-            "https://upload.wikimedia.org/wikipedia/commons/c/c3/Supomo_from_President_Website.JPG"
+            "https://civitasbook.com/_z_profile_b/j1/p/aaaaayjp35_pahlawan.jpg"
         ),
         arrayOf(
             "Tan Malaka",
